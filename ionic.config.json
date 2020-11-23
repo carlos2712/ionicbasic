@@ -1,0 +1,7 @@
+{
+  "name": "CitiHawkMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
